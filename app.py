@@ -20,7 +20,7 @@ import tempfile
 import nest_asyncio
 nest_asyncio.apply()
 
-GOOGLE_API_KEY = "AIzaSyDraoPkeWhWtRBSfsmGokjX5Rqbfd9RmWo"
+GOOGLE_API_KEY = "AIXXXXXXXXXXXXXXXXXXX"
 os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 
 st.set_page_config(page_title="MyGPT", page_icon="🤖", layout="wide")
